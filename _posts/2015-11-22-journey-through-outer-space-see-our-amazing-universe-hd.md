@@ -1,14 +1,10 @@
 ---
-author:
-  - name: killuminati133
-    url: 'https://www.youtube.com/user/killuminati133'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Lxodn5TnpkE'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -20,8 +16,14 @@ keywords:
   - outer
   - mysterious
   - planet
-description: 'Take a journey into the unknown...... Fly through the cosmic mysteries and discover our Amazing Universe. The Universe is a place of mystery, violence and beauty. Gasp at the wonders of the Galaxy! Achieve a higher level of awareness. You are a part of this Universe. You and the Universe are one!'
-inLanguage: en
+description: 'Take a journey into the unknown...... Fly through the cosmic mysteries and discover our Amazing Universe. The Universe is a place of mystery, violence and beauty. Gasp at the wonders of the Galaxy! Achieve a higher level of awareness. You are a part of this Universe. '
+datePublished: '2015-11-22T20:36:35.375Z'
+dateModified: '2015-11-22T20:36:32.610Z'
+author:
+  - name: killuminati133
+    url: 'https://www.youtube.com/user/killuminati133'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Lxodn5TnpkE&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=Lxodn5TnpkE&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Lxodn5TnpkE'
 title: Journey Through Outer Space See Our Amazing Universe (HD)
-datePublished: '2015-11-22T20:33:44.438Z'
-dateModified: '2015-11-22T20:32:42.965Z'
 sourcePath: _posts/2015-11-22-journey-through-outer-space-see-our-amazing-universe-hd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
