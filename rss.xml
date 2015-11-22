@@ -2,15 +2,78 @@
     <channel>
         <title><![CDATA[Space Race]]></title>
         <description><![CDATA[Space Race]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/space-race/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 08:58:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 09:24:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/space-race/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Space Exploration: Crazy Far - Pictures, More From National Geographic Magazine]]></title>
-            <description><![CDATA[<article><h1>Space Exploration: Crazy Far - Pictures, More From National Geographic Magazine</h1><p>On the edge of a parking lot at the Marshall Space Flight Center in Huntsville, Alabama, stands a relic from a time when our future as a spacefaring species looked all but inevitable, as clear and grand as a rocket ascending over Cape Canaveral.</p><img src="http://s.ngm.com/2013/01/space-exploration/img/unmanned-probe-explores-new-solar-system-615.jpg"></article>]]></description>
-            <link>http://ngm.nationalgeographic.com/2013/01/125-space-exploration/folger-text</link>
-            <guid isPermaLink="false">08329af7-afa0-486a-8299-b89cf7011755</guid>
+            <title><![CDATA[Welcome to the Real Space Age]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Real Space Age</h1><p>t dawn one morning last November-just as the edge of Earth comprising Florida spun into the field of light bursting from roughly 93 million miles away-she emerged one last time from the monstrous doors of the Vehicle Assembly Building, twelve stories long but dwarfed.</p><img src="http://images.nymag.com/news/features/space130527_1_560.jpg"></article>]]></description>
+            <link>http://nymag.com/news/features/space-travel-2013-5/</link>
+            <guid isPermaLink="false">17f9d2ae-d34a-47f1-923f-e1dd1d5f1820</guid>
+            <pubDate>Sun, 22 Nov 2015 09:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Señor Salme illustrates amazing space suits]]></title>
+            <description><![CDATA[<article><h1>Señor Salme illustrates amazing space suits</h1><p>We can never get enough of space suits here on TFIB, so it's only right that I share the work of Señor Salme. His illustration style reminds me a lot of P. Craig Russell, a comic book artist who's a classic in the industry.</p><img src="http://thefoxisblack.com/blogimages//senor-salme-space-suit-3.jpg"></article>]]></description>
+            <link>http://thefoxisblack.com/2012/03/02/senor-salme-illustrates-amazing-space-suits/</link>
+            <guid isPermaLink="false">73c8663d-5652-4e50-a966-118152b14084</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="GoodMorning&period; Our magnificent blue spaceship&period;&period;&period;" src="https://pbs.twimg.com/media/CUQipDVUcAAj2t_.jpg:large">]]></description>
+            <link>https://twitter.com/astro_kjell/status/667696742712807424</link>
+            <guid isPermaLink="false">3ffb3e25-6ea9-4a41-9d06-c90760b9ae24</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Long Could You Survive In Outer Space? - Discovery News]]></title>
+            <description><![CDATA[<article><h1>How Long Could You Survive In Outer Space? - Discovery News</h1><p>How Long Could You Survive In Outer Space? - Discovery News - Medium</p></article>]]></description>
+            <link>https://medium.discoverynews.com/how-long-could-you-survive-in-outer-space-9996627dbd3a#.r40wz9sdy</link>
+            <guid isPermaLink="false">de60d7ee-4b8a-48dd-8123-b5df0354b374</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Can Learn From a Forty-Year Old Handshake in Space]]></title>
+            <description><![CDATA[<article><h1>What We Can Learn From a Forty-Year Old Handshake in Space</h1><p>What We Can Learn From a Forty-Year Old Handshake in Space For the first 15 years of my adult life, I trained to fight the Russians as a fighter pilot during the Cold War. On April 4th, 2011, two and a half decades after joining the U.S.</p><img src="https://cdn-images-1.medium.com/max/1200/1*TV6vEgojNX8QFufqzwozeA.jpeg"></article>]]></description>
+            <link>https://medium.com/@Astro_Ron/what-we-can-learn-from-a-forty-year-old-handshake-in-space-c8a34b0509ae#.9pu7k4dqv</link>
+            <guid isPermaLink="false">bd334461-dcb4-4194-9be4-b72ce62eda89</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Dragon on Mars&period;" src="https://pbs.twimg.com/media/CO5ae50UkAAqEUa.jpg:large">]]></description>
+            <link>https://twitter.com/SpaceX/status/643551285124292608</link>
+            <guid isPermaLink="false">4877cd30-1821-4de9-8315-0ec4289e6265</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Space Photography - Vantage]]></title>
+            <description><![CDATA[<article><h1>The Art of Space Photography - Vantage</h1><p>The Art of Space Photography - Vantage - Medium</p></article>]]></description>
+            <link>https://medium.com/vantage/the-art-of-space-photography-ca6547c08639#.zd937v8ea</link>
+            <guid isPermaLink="false">9792295c-0edf-4fdc-9f74-defe48629c9f</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(PHOTOS) See a day in the life of Pluto and some monster galaxies in this week's space photos.]]></title>
+            <description><![CDATA[<article><h1>(PHOTOS) See a day in the life of Pluto and some monster galaxies in this week's space photos.</h1><p>Click through the gallery to see this week's helping of images not made on planet Earth. And if you need more when you're done but can't wait until the next one, here's the entire collection.</p><img src="http://www.wired.com/wp-content/uploads/2015/11/SPoW_Nov20_HP-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/space-photos-of-the-week-november-20/</link>
+            <guid isPermaLink="false">d7f08dac-cfd4-464b-849b-cdc14564ce5c</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project Apollo Archive]]></title>
+            <description><![CDATA[<article><h1>Project Apollo Archive</h1><img src="https://c2.staticflickr.com/6/5706/22304920636_61613caca9_k.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/projectapolloarchive/</link>
+            <guid isPermaLink="false">4834bf74-03ec-4f2d-9698-f414eaa9b2f1</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The universe's resolution limit-why we may never have a perfect view of distant galaxies]]></title>
+            <description><![CDATA[<article><h1>The universe's resolution limit-why we may never have a perfect view of distant galaxies</h1><p>Can you make out the dot at the bottom of this question mark? What if you stand a few metres away? The finest detail the average human eye can distinguish is about the size of a full stop seen at a distance of a metre. This ...</p><img src="http://cdn.phys.org/newman/csz/news/800/2015/1-theuniverses.jpg"></article>]]></description>
+            <link>http://phys.org/news/2015-11-universe-resolution-limitwhy-view-distant.html</link>
+            <guid isPermaLink="false">c159f1ac-e759-425a-b939-136f7f46afe7</guid>
             <pubDate>Sun, 22 Nov 2015 08:58:18 GMT</pubDate>
         </item>
     </channel>
