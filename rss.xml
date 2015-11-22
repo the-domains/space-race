@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Space Race]]></title>
+        <description><![CDATA[Space Race]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 08:58:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Space Exploration: Crazy Far - Pictures, More From National Geographic Magazine]]></title>
+            <description><![CDATA[<article><h1>Space Exploration: Crazy Far - Pictures, More From National Geographic Magazine</h1><p>On the edge of a parking lot at the Marshall Space Flight Center in Huntsville, Alabama, stands a relic from a time when our future as a spacefaring species looked all but inevitable, as clear and grand as a rocket ascending over Cape Canaveral.</p><img src="http://s.ngm.com/2013/01/space-exploration/img/unmanned-probe-explores-new-solar-system-615.jpg"></article>]]></description>
+            <link>http://ngm.nationalgeographic.com/2013/01/125-space-exploration/folger-text</link>
+            <guid isPermaLink="false">08329af7-afa0-486a-8299-b89cf7011755</guid>
+            <pubDate>Sun, 22 Nov 2015 08:58:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
