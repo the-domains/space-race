@@ -1,6 +1,6 @@
 name: Space Race
 favicon: null
-layout_spectrum: 0.20189
+layout_spectrum: 0.18515
 typography_spectrum: 0.94774
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#53605b'
     - '#888478'
     - '#ac9a71'
-  brandStrength: 0.375
-  lightness: 0.5625
-  saturation: 0.4375
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
